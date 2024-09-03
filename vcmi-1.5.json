@@ -1,0 +1,7 @@
+{
+	"rabbit-vcmi" : {
+		"mod" : "https://raw.githubusercontent.com/ToRRent1812/rabbit-vcmi/vcmi-1.5/rabbit-vcmi/mod.json",
+		"download" : "https://github.com/ToRRent1812/rabbit-vcmi/archive/refs/heads/vcmi-1.5.zip",
+		"downloadSize" : 1
+	}
+}
