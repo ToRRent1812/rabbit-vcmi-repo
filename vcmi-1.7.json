@@ -3,10 +3,5 @@
 		"mod" : "https://raw.githubusercontent.com/ToRRent1812/rabbit-vcmi/vcmi-1.7/rabbit-vcmi/mod.json",
 		"download" : "https://github.com/ToRRent1812/rabbit-vcmi/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 1
-	},
-	"pvp-balance" : {
-		"mod" : "https://raw.githubusercontent.com/ToRRent1812/pvp-balance/refs/heads/vcmi-1.7/mod.json",
-		"download" : "https://github.com/ToRRent1812/pvp-balance/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 1
 	}
 }
